@@ -10,14 +10,17 @@
   },
   "dependencies": {
     "@heroicons/react": "^2.2.0",
+    "firebase": "^11.4.0",
     "heroicons": "^2.2.0",
     "next": "15.2.0",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "vercel": "^41.3.0"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "^4",
+    "@types/react": "19.1.2",
     "eslint": "^9",
     "eslint-config-next": "15.2.0",
     "tailwindcss": "^4"

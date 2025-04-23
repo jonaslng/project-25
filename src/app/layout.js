@@ -18,7 +18,6 @@ export default function RootLayout({ children }) {
     <html lang="de">
       <body className={robotoMono.className} >
         <div className="flex flex-col h-full w-full">
-          <Header />
           
           {children}
         </div>
@@ -47,10 +46,10 @@ function Header() {
           Designed by Jonas Lang
         </p>
         <a
-          href="#"
+          href="/login"
           className="flex-none rounded-full bg-gray-900 px-3.5 py-1 text-sm font-semibold text-white shadow-xs hover:bg-gray-700 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-gray-900"
         >
-          View on Github <LinkIcon className="w-4 h-4 inline -mt-0.5" />
+          Login <LinkIcon className="w-4 h-4 inline -mt-0.5" />
         </a>
       </div>
       <div className="flex flex-1 justify-end"></div>

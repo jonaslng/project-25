@@ -1,0 +1,21 @@
+[debug] [2025-03-04T09:39:15.299Z] ----------------------------------------------------------------------
+[debug] [2025-03-04T09:39:15.305Z] Command:       /Users/Jonas/.nvm/versions/node/v23.9.0/bin/node /Users/Jonas/.nvm/versions/node/v23.9.0/bin/firebase init
+[debug] [2025-03-04T09:39:15.305Z] CLI Version:   13.32.0
+[debug] [2025-03-04T09:39:15.305Z] Platform:      darwin
+[debug] [2025-03-04T09:39:15.305Z] Node Version:  v23.9.0
+[debug] [2025-03-04T09:39:15.305Z] Time:          Tue Mar 04 2025 10:39:15 GMT+0100 (Mitteleuropäische Normalzeit)
+[debug] [2025-03-04T09:39:15.305Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2025-03-04T09:39:15.309Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2025-03-04T09:39:15.309Z] > authorizing via signed-in user (jonasdelorean@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/Jonas/Desktop/projects/project-25
+
